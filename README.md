@@ -1,4 +1,4 @@
-# BreastCancerPrediction
+# Breast Cancer Prediction
 Aim of this project is to detect breast cancer by applying a logistic regression model on a real-world dataset and predict whether a tumor is benign (not breast cancer) or malignant (breast cancer) based off its characteristics.
 
 Built a logistic regression model to identify correlations between the following 9 independent variables and the class of the tumor (benign or malignant).
